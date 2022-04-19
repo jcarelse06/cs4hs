@@ -4,4 +4,4 @@
 
 This is a project used to test Git and Github
 
-This is some information about the project
+This is some unimportant information about the project
